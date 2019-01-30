@@ -1,4 +1,4 @@
-@Library('github.com/fabric8io/osio-pipeline@master') _
+@Library('github.com/piyush-garg/osio-pipeline@fix_library') _
 
 osio {
 
