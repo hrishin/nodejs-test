@@ -2,6 +2,7 @@
 
 osio {
 
+  echo "env ${env.BUILD_NUMBER}"
   config runtime: 'node'
 
   ci {
